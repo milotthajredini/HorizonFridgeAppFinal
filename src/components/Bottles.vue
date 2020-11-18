@@ -52,7 +52,7 @@ export default {
           id: 1,
           drinkName: "Coca-Cola",
           priceTitle: "Price",
-          price: "1 .00 €",
+          price: "2 .00 €",
           drinkSrc:
             "https://s3.eu-central-1.amazonaws.com/maia.horizon/Drinks/Bottles/final.png"
         },
