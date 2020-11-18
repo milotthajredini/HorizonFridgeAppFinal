@@ -1,0 +1,50 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+::-webkit-scrollbar {
+  width: 0%;
+}
+.body {
+  width: 100%;
+  height: 100vh;
+  margin: 0%;
+  padding: 0%;
+}
+.topBanner {
+  width: 100%;
+  height: 10%;
+  overflow: hidden;
+}
+.topBanner img {
+  width: 100%;
+  height: 100%;
+}
+.drinks-row {
+  background-image: linear-gradient(
+    to top,
+    rgba(128, 128, 128, 0.603),
+    rgba(128, 128, 128, 0.603),
+    white,
+    white,
+    white,
+    rgba(128, 128, 128, 0.608)
+  );
+  width: 100%;
+  height: 208px;
+  padding: 0% !important;
+  text-align: center;
+  align-items: center;
+  user-select: none;
+}
+.other-banners {
+  width: 100%;
+  height: 50px;
+  overflow: hidden;
+}
+.other-banners img {
+  width: 100%;
+  height: 100%;
+}
